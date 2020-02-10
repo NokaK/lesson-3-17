@@ -3,9 +3,23 @@ a {
 }
 ul {
 	list-style: none;
-	border: 20px solid red;
+	/*border: 20px solid red;*/
+	/*margin: 30px 0;*/
 }
 .poto {
-	width: 700px;
-	margin-top: 60px;
+	width: 300px;
+	/*margin-top: 60px;*/
+	vertical-align: top
+}
+/*list style*/
+li {
+	background: aqua;
+    display: inline-block;
+    width: 200px;
+}
+
+/*list style*/
+.box {
+	display: inline-block;
+	width: 500px;
 }
